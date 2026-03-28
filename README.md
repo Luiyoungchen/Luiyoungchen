@@ -1,4 +1,4 @@
-<h1 align="center">Ph Angamba Singha</h1>
+<h1 align="center">Hi , I'm Ph Angamba Singha</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Backend+Developer;System+Builder;Data+Enthusiast;Always+Learning+🚀">
