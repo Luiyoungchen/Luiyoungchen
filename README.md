@@ -38,7 +38,7 @@ I’m especially interested in:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,nodejs,mysql,postgres,docker,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,mysql,postgres,docker,git,vscode" />
 </p>
 
 ---
@@ -85,18 +85,6 @@ I’m especially interested in:
 **Development:** Flask, React, REST APIs  
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Tools:** Git, Docker, VS Code  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
