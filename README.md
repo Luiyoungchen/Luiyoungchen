@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ph Angamba Singha</h1>
+<h1 align="center">Hi , I'm Ph Angamba Singha.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Backend+Developer;System+Builder;Data+Enthusiast;Always+Learning+🚀">
@@ -16,7 +16,7 @@
 - 💡 Passionate about building **impactful & scalable systems**  
 - ⚙️ Hands-on experience in **Full Stack Development & Data-driven applications**  
 - 🤖 Interested in **AI, Machine Learning & System Design**  
-- 🎨 Outside tech: Badminton, music & podcasts  
+- 🎨 Outside tech: Badminton, listening to music & podcasts.  
 
 Most of my learning comes from **building real-world projects end-to-end** — from frontend interfaces to backend systems and data pipelines.
 
