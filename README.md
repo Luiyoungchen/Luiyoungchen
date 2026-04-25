@@ -55,7 +55,7 @@ I’m especially interested in:
 
 ---
 
-### 🏢 HDFC — Project Trainee (2026 - Present)
+### 🏢 HDFC — Project Trainee (Feb-March,2026)
 
 - Working on enterprise-level systems & data workflows  
 - Gaining exposure to **production-grade environments**  
