@@ -108,5 +108,5 @@ I’m especially interested in:
 ---
 
 <p align="center">
-🚀 Keep Building | Keep Learning | Keep Improving | Heads up
+🚀 Keep Building | Keep Learning | Keep Improving 
 </p>
