@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science (8th Sem)  
+- 🎓 Graduated B.Tech in Computer Science (8th Sem)  
 - 💡 Passionate about building **impactful & scalable systems**  
 - ⚙️ Hands-on experience in **Full Stack Development & Data-driven applications**  
 - 🤖 Interested in **AI, Machine Learning & System Design**  
@@ -81,10 +81,10 @@ I’m especially interested in:
 
 ## 🧩 Core Skills
 
-**Languages:** Python, JavaScript, C++, SQL  
+**Languages:** Python, Java, JavaScript, C++, SQL, Springboot
 **Development:** Flask, React, REST APIs  
 **Databases:** MySQL, SQLite, PostgreSQL  
-**Tools:** Git, Docker, VS Code  
+**Tools:** Git, Docker, VS Code, IntelliJ, Postman, Httpie  
 
 ---
 
